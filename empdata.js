@@ -14,7 +14,7 @@
     },
     {
       "name": "Li Cheng",
-      "interests": "Movie",
+      "interests": "movie",
       "age": "23",
       "home": "China"
     }
